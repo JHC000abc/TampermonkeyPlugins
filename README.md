@@ -25,3 +25,7 @@ Gemini 官网自动加提示词
 ## 云展网（yunzhan365）
 
 自动采集云展网高清图片保存成pdf
+
+
+## Twitter(X)
+推特推文接口Hook工具，同样还是先启动server_twitter.py,然后打开任意用户主页推文，滑动即可收集推文相关信息，全量数据，Twitter的json结构较复杂，需要自行解析
